@@ -1,0 +1,6 @@
+sentence-transformers==3.0.1
+torch
+numpy
+pandas
+scikit-learn
+jupyter

@@ -1,0 +1,317 @@
+[
+  {
+    "question_id": "Q1",
+    "question": "kifash ndiro l-inventory dyal l-mawad?",
+    "top3": [
+      {
+        "chunk_id": 8,
+        "score": 0.8148,
+        "chunk": "Pour consulter l'état du stock, accédez au menu Stock > Inventaire > État actuel."
+      },
+      {
+        "chunk_id": 7,
+        "score": 0.8014,
+        "chunk": "Le module de gestion des stocks permet de suivre les entrées et sorties de matières premières et produits finis."
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8012,
+        "chunk": "La valorisation du stock est calculée automatiquement selon la méthode FIFO ou coût moyen pondéré."
+      }
+    ]
+  },
+  {
+    "question_id": "Q2",
+    "question": "wash momkin nshuf l-rapport dyal l-makhzen?",
+    "top3": [
+      {
+        "chunk_id": 3,
+        "score": 0.8033,
+        "chunk": "Le module parcelles offre une vue cartographique de l'ensemble des terres exploitées par l'entreprise."
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.8015,
+        "chunk": "actaAgri génère automatiquement des rapports de production par parcelle et par saison agricole."
+      },
+      {
+        "chunk_id": 14,
+        "score": 0.7979,
+        "chunk": "actaERP permet de suivre l'historique complet des commandes par fournisseur et par période."
+      }
+    ]
+  },
+  {
+    "question_id": "Q3",
+    "question": "kifash ndir commande jadida?",
+    "top3": [
+      {
+        "chunk_id": 11,
+        "score": 0.8047,
+        "chunk": "La création d'une commande d'achat se fait via le module Achats > Nouvelle commande."
+      },
+      {
+        "chunk_id": 13,
+        "score": 0.7924,
+        "chunk": "Un bon de livraison est généré automatiquement lors de la réception d'une commande fournisseur."
+      },
+      {
+        "chunk_id": 14,
+        "score": 0.7921,
+        "chunk": "actaERP permet de suivre l'historique complet des commandes par fournisseur et par période."
+      }
+    ]
+  },
+  {
+    "question_id": "Q4",
+    "question": "mnin nlqa l-liste dyal les employés?",
+    "top3": [
+      {
+        "chunk_id": 19,
+        "score": 0.8374,
+        "chunk": "La liste des employés est accessible via le menu RH > Employés > Liste complète."
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.8088,
+        "chunk": "Le module actaHR gère les travailleurs saisonniers avec leurs contrats, présences et paies."
+      },
+      {
+        "chunk_id": 21,
+        "score": 0.8021,
+        "chunk": "actaHR permet de gérer les congés, absences et heures supplémentaires des employés."
+      }
+    ]
+  },
+  {
+    "question_id": "Q5",
+    "question": "kifash nhaseb l-salaire dyal l-khdama?",
+    "top3": [
+      {
+        "chunk_id": 20,
+        "score": 0.8085,
+        "chunk": "Le calcul des salaires est automatisé en fonction des jours travaillés et des primes configurées."
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.7992,
+        "chunk": "Le module actaHR gère les travailleurs saisonniers avec leurs contrats, présences et paies."
+      },
+      {
+        "chunk_id": 19,
+        "score": 0.7959,
+        "chunk": "La liste des employés est accessible via le menu RH > Employés > Liste complète."
+      }
+    ]
+  },
+  {
+    "question_id": "Q6",
+    "question": "wash kayn chi module lel-facturation?",
+    "top3": [
+      {
+        "chunk_id": 15,
+        "score": 0.8337,
+        "chunk": "Le module facturation permet de créer et gérer les factures clients et fournisseurs."
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.8149,
+        "chunk": "La création d'une commande d'achat se fait via le module Achats > Nouvelle commande."
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.814,
+        "chunk": "Le module actaHR gère les travailleurs saisonniers avec leurs contrats, présences et paies."
+      }
+    ]
+  },
+  {
+    "question_id": "Q7",
+    "question": "kifash ndiro backup lel-data?",
+    "top3": [
+      {
+        "chunk_id": 25,
+        "score": 0.8255,
+        "chunk": "La sauvegarde des données peut être configurée automatiquement via le menu Système > Backup."
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.806,
+        "chunk": "Pour consulter l'état du stock, accédez au menu Stock > Inventaire > État actuel."
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.8042,
+        "chunk": "actaERP permet de définir des seuils d'alerte pour éviter les ruptures de stock."
+      }
+    ]
+  },
+  {
+    "question_id": "Q8",
+    "question": "kifash ndir une nouvelle parcelle f actaAgri?",
+    "top3": [
+      {
+        "chunk_id": 1,
+        "score": 0.8458,
+        "chunk": "actaAgri permet de gérer les parcelles agricoles avec leurs superficies, cultures et historiques de production."
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.8404,
+        "chunk": "La création d'une nouvelle parcelle nécessite de renseigner le nom, la superficie en hectares et la culture associée."
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.8358,
+        "chunk": "actaAgri génère automatiquement des rapports de production par parcelle et par saison agricole."
+      }
+    ]
+  },
+  {
+    "question_id": "Q9",
+    "question": "wash momkin nshuf le stock dyal les produits?",
+    "top3": [
+      {
+        "chunk_id": 7,
+        "score": 0.8416,
+        "chunk": "Le module de gestion des stocks permet de suivre les entrées et sorties de matières premières et produits finis."
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8369,
+        "chunk": "Pour consulter l'état du stock, accédez au menu Stock > Inventaire > État actuel."
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8261,
+        "chunk": "La valorisation du stock est calculée automatiquement selon la méthode FIFO ou coût moyen pondéré."
+      }
+    ]
+  },
+  {
+    "question_id": "Q10",
+    "question": "kifash nmanage les travailleurs saisonniers?",
+    "top3": [
+      {
+        "chunk_id": 18,
+        "score": 0.866,
+        "chunk": "Le module actaHR gère les travailleurs saisonniers avec leurs contrats, présences et paies."
+      },
+      {
+        "chunk_id": 21,
+        "score": 0.8326,
+        "chunk": "actaHR permet de gérer les congés, absences et heures supplémentaires des employés."
+      },
+      {
+        "chunk_id": 20,
+        "score": 0.802,
+        "chunk": "Le calcul des salaires est automatisé en fonction des jours travaillés et des primes configurées."
+      }
+    ]
+  },
+  {
+    "question_id": "Q11",
+    "question": "mnin nlqa les rapports dyal la comptabilité?",
+    "top3": [
+      {
+        "chunk_id": 22,
+        "score": 0.8441,
+        "chunk": "Le module comptabilité génère des rapports financiers : bilan, compte de résultat et balance."
+      },
+      {
+        "chunk_id": 23,
+        "score": 0.8392,
+        "chunk": "Les rapports de comptabilité sont exportables en PDF et Excel pour faciliter le partage."
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.8378,
+        "chunk": "La facturation est intégrée avec la comptabilité pour une mise à jour automatique des comptes."
+      }
+    ]
+  },
+  {
+    "question_id": "Q12",
+    "question": "kifash ndiro la saisie des récoltes?",
+    "top3": [
+      {
+        "chunk_id": 4,
+        "score": 0.8358,
+        "chunk": "La saisie des récoltes se fait via le module actaAgri en indiquant la parcelle, la quantité et la date de récolte."
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.8141,
+        "chunk": "Le suivi des récoltes permet d'analyser les rendements et de comparer les performances entre saisons."
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.8054,
+        "chunk": "actaAgri génère automatiquement des rapports de production par parcelle et par saison agricole."
+      }
+    ]
+  },
+  {
+    "question_id": "Q13",
+    "question": "wash kayn un module pour les achats?",
+    "top3": [
+      {
+        "chunk_id": 12,
+        "score": 0.8449,
+        "chunk": "Le module achats permet de gérer les fournisseurs, les bons de commande et le suivi des livraisons."
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.829,
+        "chunk": "La création d'une commande d'achat se fait via le module Achats > Nouvelle commande."
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.8181,
+        "chunk": "Le module actaHR gère les travailleurs saisonniers avec leurs contrats, présences et paies."
+      }
+    ]
+  },
+  {
+    "question_id": "Q14",
+    "question": "kifash ndir un bon de livraison?",
+    "top3": [
+      {
+        "chunk_id": 13,
+        "score": 0.85,
+        "chunk": "Un bon de livraison est généré automatiquement lors de la réception d'une commande fournisseur."
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.8088,
+        "chunk": "Le module achats permet de gérer les fournisseurs, les bons de commande et le suivi des livraisons."
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.8086,
+        "chunk": "La création d'une commande d'achat se fait via le module Achats > Nouvelle commande."
+      }
+    ]
+  },
+  {
+    "question_id": "Q15",
+    "question": "mnin nshuf l-historique dyal les commandes?",
+    "top3": [
+      {
+        "chunk_id": 14,
+        "score": 0.8145,
+        "chunk": "actaERP permet de suivre l'historique complet des commandes par fournisseur et par période."
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.8089,
+        "chunk": "La création d'une commande d'achat se fait via le module Achats > Nouvelle commande."
+      },
+      {
+        "chunk_id": 13,
+        "score": 0.7993,
+        "chunk": "Un bon de livraison est généré automatiquement lors de la réception d'une commande fournisseur."
+      }
+    ]
+  }
+]
